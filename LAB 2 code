@@ -1,5 +1,6 @@
-,Surgeon,Anesthesiologist,RN,PA
-Surgeon,0,1,0,0
-Anesthesiologist,1,0,1,0
-RN,0,1,0,1
-PA,0,0,1,0
+,Surgeon,Anesthesiologist,RN,PA,RA
+Surgeon,0,1,0,0,1
+Anesthesiologist,1,0,1,0,0
+RN,0,1,0,1,0
+PA,0,0,1,0,0
+RA,0,0,1,0,1
